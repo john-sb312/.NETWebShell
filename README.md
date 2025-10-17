@@ -1,2 +1,2 @@
 # .NETWebShell
-2021.03.11 动态编译实现任意命令执行，Windows Defender 免杀
+Dynamic webshell, author claimed it's immune to Windows Defender. Not sure about other EDR, XDR solutions though.
